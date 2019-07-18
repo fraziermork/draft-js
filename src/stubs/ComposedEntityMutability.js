@@ -11,6 +11,7 @@
 'use strict';
 
 var ComposedEntityMutability = {
+  PLAIN: true,
   MUTABLE: true,
   IMMUTABLE: true,
   SEGMENTED: true,
